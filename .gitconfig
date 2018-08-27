@@ -1,0 +1,6 @@
+# master mark
+[user]
+	email = a-kanev@yandex.ru
+	name = Artem Kanev
+[diff]
+    tool = vimdiff

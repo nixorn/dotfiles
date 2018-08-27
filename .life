@@ -1,0 +1,7 @@
+branch = "master"
+directories = []
+files = [ ".gitconfig"
+        , ".life"
+        , ".profile"
+        , ".spacemacs"
+        ]
